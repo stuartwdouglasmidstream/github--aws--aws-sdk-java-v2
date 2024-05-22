@@ -114,7 +114,7 @@
     <exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
     <jmh.version>1.29</jmh.version>
     <reactive-streams.version>1.0.4</reactive-streams.version>
-    <netty.version>4.1.108.Final</netty.version>
+    <netty.version>4.1.110.Final</netty.version>
     <commons-lang.verson>2.6</commons-lang.verson>
     <mockito.junit5.version>4.6.0</mockito.junit5.version>
     <junit5.version>5.10.0</junit5.version>
